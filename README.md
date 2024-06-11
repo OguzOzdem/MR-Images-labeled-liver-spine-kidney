@@ -5,4 +5,4 @@ Label type is Polygon
 My labels' name are Turkısh name of organs.
 For translate:(Böbrek=Kidney, Spine=Omurga,Liver=Karaciğer)
 
-![Example](https://postimg.cc/VdXGgT8q)
+![Example](https://i.postimg.cc/DyM9vkpM/Labeled-Imagepng.png)
